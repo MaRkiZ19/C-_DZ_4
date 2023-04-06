@@ -10,5 +10,5 @@ int Read()
 int a = Read();
 int b = Read();
 int stepen = b;
-//for (int i=1; i<=n; i++)
-     Console.WriteLine("a^b = " + Math.Pow(a, stepen));
+
+Console.WriteLine("a^b = " + Math.Pow(a, stepen));
